@@ -12,11 +12,11 @@ function Welcome() {
         <div className={styles.textWrap}>
           <h1 className={styles.title3}>Welcome</h1>
           <p className={styles.text}>
-            Delve into our thoughtfully curated selection of captivating slot
-            games, each painstakingly designed to deliver an exciting experience
-            that will keep you on the edge of your seat. Each game is a work of
-            art, expertly crafted to capture your senses and keep you eagerly
-            anticipating every exhilarating moment.
+            Embark on an extraordinary gaming journey where state-of-the-art
+            visuals, immersive audio, and user-friendly gameplay come together.
+            Our slot games offer more than mere entertainment; they seamlessly
+            blend visuals and sounds to transport you to a world of pure
+            enchantment.
           </p>
           <div className={styles.btn2}>
             <GoogleButton />
