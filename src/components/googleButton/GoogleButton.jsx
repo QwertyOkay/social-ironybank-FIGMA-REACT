@@ -129,7 +129,7 @@ const GooglePlayStoreIcon = () => (
 function GoogleButton() {
   return (
     <a
-      href="https://play.google.com/store/apps/details?id=com.slots.wolf.magic"
+      href="https://play.google.com/store/apps/details?id=com.slots.prosperity"
       target="_blank"
       rel="noreferrer"
       className={styles.googleLink}
